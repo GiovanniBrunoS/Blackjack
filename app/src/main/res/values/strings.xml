@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Blackjack</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="mostrar_senha">Mostrar Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="nome">Nome</string>
+    <string name="e_mail">E-mail</string>
+    <string name="concluir">Concluir</string>
+    <string name="sair">Sair</string>
+    <string name="parar">Parar</string>
+    <string name="pedir_carta">Pedir Carta</string>
+    <string name="jogar_novamente">Jogar Novamente</string>
+</resources>
